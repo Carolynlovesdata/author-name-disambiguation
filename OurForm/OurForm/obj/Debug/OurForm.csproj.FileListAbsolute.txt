@@ -1,0 +1,17 @@
+D:\MY\FirstProject\OurForm\OurForm\bin\Debug\OurForm.exe.config
+D:\MY\FirstProject\OurForm\OurForm\obj\Debug\OurForm.csprojResolveAssemblyReference.cache
+D:\MY\FirstProject\OurForm\OurForm\obj\Debug\OurForm.Form1.resources
+D:\MY\FirstProject\OurForm\OurForm\obj\Debug\OurForm.MainPlato.resources
+D:\MY\FirstProject\OurForm\OurForm\obj\Debug\OurForm.Properties.Resources.resources
+D:\MY\FirstProject\OurForm\OurForm\obj\Debug\OurForm.csproj.GenerateResource.Cache
+D:\MY\FirstProject\OurForm\OurForm\bin\Debug\OurForm.exe
+D:\MY\FirstProject\OurForm\OurForm\bin\Debug\OurForm.pdb
+D:\MY\FirstProject\OurForm\OurForm\bin\Debug\MySql.Data.dll
+D:\MY\FirstProject\OurForm\OurForm\bin\Debug\MySql.Web.dll
+D:\MY\FirstProject\OurForm\OurForm\bin\Debug\Google.Protobuf.dll
+D:\MY\FirstProject\OurForm\OurForm\bin\Debug\MySql.Data.xml
+D:\MY\FirstProject\OurForm\OurForm\bin\Debug\MySql.Web.xml
+D:\MY\FirstProject\OurForm\OurForm\obj\Debug\OurForm.exe
+D:\MY\FirstProject\OurForm\OurForm\obj\Debug\OurForm.pdb
+D:\MY\FirstProject\OurForm\OurForm\obj\Debug\OurForm.jg_sim.resources
+D:\MY\FirstProject\OurForm\OurForm\obj\Debug\OurForm.search.resources
